@@ -64,7 +64,7 @@ main .definition::after {
     background-color: hsl(0, 0%, 59%);
     left: 0;
     bottom: 0;
-    height: 0.2px;
+    height: 1px;
     width: 100%;
 }
 main .definition h1 {
